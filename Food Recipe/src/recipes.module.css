@@ -1,0 +1,16 @@
+.recipe{
+    border-radius: 10px;
+    -webkit-box-shadow: 20px 20px 6px -3px rgba(28, 190, 240, 0.79);
+    -moz-box-shadow: 20px 20px 6px -3px rgba(28, 190, 240, 0.79);
+    box-shadow: 20px 20px 6px -3px rgba(28, 190, 240, 0.79);
+    
+margin: 50px;
+padding: 20px;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+min-width: 40%;
+background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+color: black
+}

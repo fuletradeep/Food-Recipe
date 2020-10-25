@@ -1,0 +1,33 @@
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);;
+}
+
+.search-form {
+    min-height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-bar{
+    width: 50%;
+    border: none;
+    padding: 10px;
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+
+.search-btn{
+    background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+    border: none;
+    padding: 10px 20px;
+}
+
+.recipes{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
